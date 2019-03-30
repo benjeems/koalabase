@@ -1,4 +1,6 @@
 # koalabase
+[![License: BSD 3-Clause License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+  
 My Volunteer research on data from "Koalabase" Hospital and sightings data. An attempt to help shed light on the concerning rapid decline of the koala in South East Queensland. 
 
 For full analysis, see my [website](https://dataviz.com.au/2018/06/06/koalabase-disease-and-accident-hospital/)
