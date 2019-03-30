@@ -1,4 +1,7 @@
 # koalabase
+My Volunteer research on data from "Koalabase" Hospital and sightings data. An attempt to help shed light on the concerning rapid decline of the koala in South East Queensland. 
+
+For full analysis, see my [website](https://dataviz.com.au/2018/06/06/koalabase-disease-and-accident-hospital/)
 
 South East Queensland koalas are currently undergoing a major population decline. Data on major causes of koala disease or injury has been collected, but no detailed epidemiological studies on morbidity and mortality exist. Additionally, a lack of standardised pathological analysis and scientific data management procedures to compile and analyse disease and mortalities, are major constraints on understanding the threats to SE-QLD koalas.” – From the University of Queensland Koalabase website
 
