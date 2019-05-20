@@ -1,6 +1,7 @@
 # koalabase
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) 
+
 My Volunteer research on data from "Koalabase" Hospital and sightings data. An attempt to help shed light on the concerning rapid decline of the koala in South East Queensland. 
 
 For full analysis, see my [website](https://dataviz.com.au/2018/06/06/koalabase-disease-and-accident-hospital/)
